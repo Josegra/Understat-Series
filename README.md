@@ -65,7 +65,7 @@ Once the data's been scraped, let's visualize it:
 <a id="6."></a>
 ## Acknowledgements
 
-This project is all thanks to the inspiration by the Youtube Channel of [Mckay Johns](https://www.youtube.com/c/McKayJohns/videos)
+This project's been heavily inspired by the Youtube Channel of [Mckay Johns](https://www.youtube.com/c/McKayJohns/videos)
 
 <a id="1.1"></a>
 ## Notebook content 
